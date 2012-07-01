@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ecircumflex" format="1">
+  <advance width="431"/>
+  <unicode hex="00EA"/>
+  <outline>
+    <contour>
+      <point x="216" y="632" type="line"/>
+      <point x="312" y="540" type="line"/>
+      <point x="398" y="540" type="line"/>
+      <point x="256" y="709" type="line"/>
+      <point x="174" y="709" type="line"/>
+      <point x="33" y="540" type="line"/>
+      <point x="121" y="540" type="line"/>
+    </contour>
+    <component base="e"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ecircumflex</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>517</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
